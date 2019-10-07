@@ -1,0 +1,277 @@
+web-scraper-order,web-scraper-start-url,home,rent,energy,phone,gas,bread,milk,eggs,bananas,hamburger,doctor,dentist,optometrist,drug,veterinary
+1570330668-130,https://www.payscale.com/cost-of-living-calculator/Oklahoma-Oklahoma-City,"$247,758 ",$776.12 / month,$154.08 / month,$164.24 / month,$2.18 / gallon,$3.02 ,$1.76 ,$1.64 ,$3.05 ,$3.85 ,$100.41 ,$86.26 ,$94.09 ,$399.99 ,$46.79 
+1570330638-116,https://www.payscale.com/cost-of-living-calculator/Louisiana-Lafayette,"$259,903 ",$814.16 / month,$183.42 / month,$195.52 / month,$2.50 / gallon,$3.26 ,$1.90 ,$1.77 ,$3.29 ,$4.16 ,$96.54 ,$82.94 ,$90.46 ,$384.55 ,$48.02 
+1570330590-94,https://www.payscale.com/cost-of-living-calculator/Texas-Stephenville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330925-251,https://www.payscale.com/cost-of-living-calculator/Colorado-Denver,"$463,245 ","$1,451 / month",$156.76 / month,$167.10 / month,$2.75 / gallon,$3.26 ,$1.90 ,$1.77 ,$3.29 ,$4.15 ,$116.58 ,$100.15 ,$109.24 ,$464.37 ,$55.28 
+1570330988-281,https://www.payscale.com/cost-of-living-calculator/California-Pasadena,"$987,211 ","$3,093 / month",$180.74 / month,$192.66 / month,$3.42 / gallon,$3.73 ,$2.17 ,$2.03 ,$3.77 ,$4.75 ,$121.67 ,$104.53 ,$114.01 ,$484.66 ,$54.97 
+1570330757-172,https://www.payscale.com/cost-of-living-calculator/Ohio-Akron,"$343,877 ","$1,077 / month",$162.63 / month,$173.36 / month,$2.85 / gallon,$3.38 ,$1.97 ,$1.84 ,$3.41 ,$4.30 ,$93.11 ,$79.99 ,$87.25 ,$370.88 ,$43.29 
+1570330768-177,https://www.payscale.com/cost-of-living-calculator/Illinois-Carbondale,"$285,928 ",$895.69 / month,$161.29 / month,$171.93 / month,$2.68 / gallon,$3.25 ,$1.89 ,$1.77 ,$3.28 ,$4.14 ,$112.04 ,$96.25 ,$104.98 ,$446.29 ,$49.46 
+1570330921-249,https://www.payscale.com/cost-of-living-calculator/Oregon-Corvallis,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330406-7,https://www.payscale.com/cost-of-living-calculator/New_York-Dobbs-Ferry,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330963-269,https://www.payscale.com/cost-of-living-calculator/California-San-Francisco,"$1,146,835 ","$3,593 / month",$182.92 / month,$194.98 / month,$3.51 / gallon,$4.28 ,$2.49 ,$2.33 ,$4.32 ,$5.45 ,$132.96 ,$114.23 ,$124.59 ,$529.64 ,$62.84 
+1570330719-154,https://www.payscale.com/cost-of-living-calculator/District-of-Columbia-Washington,"$859,866 ","$2,694 / month",$162.13 / month,$172.82 / month,$2.73 / gallon,$3.66 ,$2.13 ,$1.99 ,$3.70 ,$4.66 ,$106.84 ,$91.78 ,$100.11 ,$425.57 ,$50.44 
+1570330965-270,https://www.payscale.com/cost-of-living-calculator/California-Fullerton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330914-246,https://www.payscale.com/cost-of-living-calculator/Idaho-Moscow,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330493-48,https://www.payscale.com/cost-of-living-calculator/New_York-Albany,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330689-140,https://www.payscale.com/cost-of-living-calculator/Texas-Waco,"$282,805 ",$885.91 / month,$177.55 / month,$189.26 / month,$2.53 / gallon,$2.75 ,$1.60 ,$1.50 ,$2.78 ,$3.51 ,$102.63 ,$88.17 ,$96.17 ,$408.81 ,$49.00 
+1570330474-39,https://www.payscale.com/cost-of-living-calculator/Rhode_Island-Kingston,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330919-248,https://www.payscale.com/cost-of-living-calculator/Utah-Salt-Lake-City,"$320,281 ","$1,003 / month",$130.77 / month,$139.40 / month,$2.80 / gallon,$3.25 ,$1.89 ,$1.76 ,$3.28 ,$4.13 ,$102.63 ,$88.17 ,$96.17 ,$408.81 ,$49.26 
+1570330466-35,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Northampton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330424-15,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Harrisburg,"$321,322 ","$1,007 / month",$199.68 / month,$212.86 / month,$2.76 / gallon,$3.29 ,$1.92 ,$1.79 ,$3.32 ,$4.19 ,$97.76 ,$83.98 ,$91.60 ,$389.40 ,$50.90 
+1570330991-282,https://www.payscale.com/cost-of-living-calculator/California-Stanford,"$2,140,883 ","$6,706 / month",$181.74 / month,$193.73 / month,$3.16 / gallon,$4.92 ,$2.87 ,$2.67 ,$4.96 ,$6.26 ,$150.01 ,$128.87 ,$140.57 ,$597.56 ,$65.26 
+1570330567-83,https://www.payscale.com/cost-of-living-calculator/New_Jersey-Princeton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330489-46,https://www.payscale.com/cost-of-living-calculator/New_Jersey-South-Orange,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330451-28,https://www.payscale.com/cost-of-living-calculator/New_York-Geneseo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330910-244,https://www.payscale.com/cost-of-living-calculator/Washington-Tacoma,"$337,631 ","$1,058 / month",$190.63 / month,$203.20 / month,$2.54 / gallon,$3.66 ,$2.13 ,$1.99 ,$3.70 ,$4.66 ,$134.84 ,$115.84 ,$126.36 ,$537.14 ,$59.65 
+1570330917-247,https://www.payscale.com/cost-of-living-calculator/Nevada-Reno,"$370,596 ","$1,161 / month",$141.84 / month,$151.20 / month,$2.95 / gallon,$3.33 ,$1.94 ,$1.81 ,$3.36 ,$4.24 ,$122.00 ,$104.81 ,$114.32 ,$485.98 ,$58.21 
+1570330514-58,https://www.payscale.com/cost-of-living-calculator/Maine-Lewiston,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330449-27,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Collegeville,"$828,384 ","$2,595 / month",$208.74 / month,$222.51 / month,$3.00 / gallon,$3.87 ,$2.25 ,$2.10 ,$3.90 ,$4.93 ,$117.02 ,$100.53 ,$109.65 ,$466.14 ,$55.18 
+1570330889-234,https://www.payscale.com/cost-of-living-calculator/Washington-Spokane,"$320,281 ","$1,003 / month",$126.75 / month,$135.11 / month,$2.93 / gallon,$3.23 ,$1.88 ,$1.75 ,$3.26 ,$4.11 ,$125.66 ,$107.95 ,$117.74 ,$500.54 ,$50.23 
+1570330785-185,https://www.payscale.com/cost-of-living-calculator/Ohio-Toledo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330904-241,https://www.payscale.com/cost-of-living-calculator/Washington-Walla-Walla,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330516-59,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Boston,"$717,943 ","$2,249 / month",$236.57 / month,$252.17 / month,$2.89 / gallon,$3.52 ,$2.05 ,$1.91 ,$3.55 ,$4.49 ,$149.68 ,$128.59 ,$140.26 ,$596.23 ,$66.81 
+1570330787-186,https://www.payscale.com/cost-of-living-calculator/Michigan-Detroit,"$326,527 ","$1,023 / month",$171.18 / month,$182.47 / month,$2.82 / gallon,$3.02 ,$1.76 ,$1.64 ,$3.05 ,$3.85 ,$104.29 ,$89.59 ,$97.72 ,$415.42 ,$50.03 
+1570330902-240,https://www.payscale.com/cost-of-living-calculator/New_Mexico-Las-Cruces,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330876-228,https://www.payscale.com/cost-of-living-calculator/Nevada-Las-Vegas,"$376,148 ","$1,178 / month",$151.23 / month,$161.21 / month,$2.96 / gallon,$3.46 ,$2.02 ,$1.88 ,$3.49 ,$4.41 ,$113.70 ,$97.68 ,$106.54 ,$452.91 ,$51.52 
+1570330927-252,https://www.payscale.com/cost-of-living-calculator/Washington-Pullman,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330610-103,https://www.payscale.com/cost-of-living-calculator/Alabama-Birmingham,"$299,808 ",$939.17 / month,$169.00 / month,$180.15 / month,$2.38 / gallon,$3.18 ,$1.85 ,$1.73 ,$3.21 ,$4.05 ,$92.77 ,$79.70 ,$86.93 ,$369.56 ,$47.20 
+1570330866-223,https://www.payscale.com/cost-of-living-calculator/Washington-Olympia,"$343,530 ","$1,076 / month",$179.56 / month,$191.41 / month,$3.40 / gallon,$3.58 ,$2.09 ,$1.95 ,$3.61 ,$4.56 ,$130.53 ,$112.13 ,$122.31 ,$519.94 ,$49.77 
+1570330438-22,https://www.payscale.com/cost-of-living-calculator/New_York-Oswego,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330783-184,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Whitewater,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330510-56,https://www.payscale.com/cost-of-living-calculator/Kentucky-Barbourville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330453-29,https://www.payscale.com/cost-of-living-calculator/New_York-Buffalo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330762-174,https://www.payscale.com/cost-of-living-calculator/Minnesota-St.-Cloud,"$268,231 ",$840.25 / month,$144.19 / month,$153.70 / month,$2.68 / gallon,$3.79 ,$2.21 ,$2.06 ,$3.82 ,$4.83 ,$129.09 ,$110.90 ,$120.96 ,$514.21 ,$52.91 
+1570330823-203,https://www.payscale.com/cost-of-living-calculator/Minnesota-Minnesota,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330760-173,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Parkside,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330736-162,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Stevens-Point,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330829-206,https://www.payscale.com/cost-of-living-calculator/Minnesota-Minneapolis,"$363,656 ","$1,139 / month",$152.74 / month,$162.81 / month,$2.82 / gallon,$3.55 ,$2.07 ,$1.93 ,$3.58 ,$4.52 ,$115.69 ,$99.39 ,$108.41 ,$460.85 ,$55.07 
+1570330648-121,https://www.payscale.com/cost-of-living-calculator/Mississippi-Mississippi-State,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330770-178,https://www.payscale.com/cost-of-living-calculator/Nebraska-Omaha,"$308,136 ",$965.26 / month,$144.02 / month,$153.52 / month,$2.40 / gallon,$3.14 ,$1.83 ,$1.71 ,$3.17 ,$3.99 ,$111.37 ,$95.68 ,$104.36 ,$443.65 ,$48.48 
+1570330855-218,https://www.payscale.com/cost-of-living-calculator/Minnesota-Northfield,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330982-278,https://www.payscale.com/cost-of-living-calculator/California-Los-Angeles,"$788,384 ","$2,470 / month",$180.74 / month,$192.66 / month,$3.42 / gallon,$3.73 ,$2.17 ,$2.03 ,$3.77 ,$4.75 ,$121.67 ,$104.53 ,$114.01 ,$484.66 ,$54.97 
+1570330457-31,https://www.payscale.com/cost-of-living-calculator/Connecticut-West-Haven,"$475,397 ","$1,489 / month",$181.74 / month,$193.73 / month,$2.76 / gallon,$4.27 ,$2.49 ,$2.32 ,$4.31 ,$5.44 ,$129.09 ,$110.90 ,$120.96 ,$514.21 ,$63.10 
+1570330738-163,https://www.payscale.com/cost-of-living-calculator/Missouri-Parkville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330812-198,https://www.payscale.com/cost-of-living-calculator/Ohio-Oberlin,"$572,175 ","$1,792 / month",$175.54 / month,$187.12 / month,$2.68 / gallon,$3.70 ,$2.16 ,$2.01 ,$3.74 ,$4.71 ,$112.04 ,$96.25 ,$104.98 ,$446.29 ,$54.56 
+1570330687-139,https://www.payscale.com/cost-of-living-calculator/Florida-Gainesville,"$316,117 ",$990.26 / month,$199.01 / month,$212.14 / month,$2.70 / gallon,$3.45 ,$2.01 ,$1.88 ,$3.48 ,$4.39 ,$109.16 ,$93.78 ,$102.29 ,$434.83 ,$48.74 
+1570330973-274,https://www.payscale.com/cost-of-living-calculator/California-Irbine,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330584-91,https://www.payscale.com/cost-of-living-calculator/Texas-Dallas,"$364,003 ","$1,140 / month",$174.87 / month,$186.40 / month,$2.59 / gallon,$3.16 ,$1.84 ,$1.72 ,$3.19 ,$4.02 ,$112.04 ,$96.25 ,$104.98 ,$446.29 ,$52.65 
+1570330802-193,https://www.payscale.com/cost-of-living-calculator/Minnesota-Saint-Peter,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330819-201,https://www.payscale.com/cost-of-living-calculator/Iowa-Iowa-City,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330535-68,https://www.payscale.com/cost-of-living-calculator/Maine-Brunswick,"$316,747 ",$992.23 / month,$195.49 / month,$208.39 / month,$2.82 / gallon,$3.34 ,$1.95 ,$1.82 ,$3.37 ,$4.25 ,$119.23 ,$102.43 ,$111.73 ,$474.96 ,$56.77 
+1570330523-62,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Villanova,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330440-23,https://www.payscale.com/cost-of-living-calculator/New_Hampshire-Durham,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330470-37,https://www.payscale.com/cost-of-living-calculator/New_York-Rochester,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330906-242,https://www.payscale.com/cost-of-living-calculator/Oregon-Portland,"$620,783 ","$1,945 / month",$130.77 / month,$139.40 / month,$2.78 / gallon,$3.84 ,$2.23 ,$2.09 ,$3.87 ,$4.88 ,$118.57 ,$101.86 ,$111.11 ,$472.31 ,$60.53 
+1570330893-236,https://www.payscale.com/cost-of-living-calculator/Oregon-Eugene,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330827-205,https://www.payscale.com/cost-of-living-calculator/Michigan-East-Lansing,"$580,412 ","$1,818 / month",$168.83 / month,$179.97 / month,$2.59 / gallon,$3.07 ,$1.79 ,$1.67 ,$3.09 ,$3.91 ,$108.72 ,$93.40 ,$101.87 ,$433.06 ,$47.82 
+1570330821-202,https://www.payscale.com/cost-of-living-calculator/Indiana-Bloomington,"$304,319 ",$953.30 / month,$159.11 / month,$169.61 / month,$2.63 / gallon,$3.20 ,$1.86 ,$1.74 ,$3.23 ,$4.07 ,$97.54 ,$83.79 ,$91.39 ,$388.52 ,$53.37 
+1570330604-100,https://www.payscale.com/cost-of-living-calculator/Virginia-Richmond,"$307,789 ",$964.17 / month,$178.22 / month,$189.98 / month,$2.40 / gallon,$2.94 ,$1.71 ,$1.60 ,$2.97 ,$3.75 ,$119.46 ,$102.62 ,$111.94 ,$475.84 ,$52.09 
+1570330464-34,https://www.payscale.com/cost-of-living-calculator/New_York-Clinton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330846-214,https://www.payscale.com/cost-of-living-calculator/Missouri-Rolla,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330976-275,https://www.payscale.com/cost-of-living-calculator/California-Davis,"$889,164 ","$2,785 / month",$149.72 / month,$159.60 / month,$3.20 / gallon,$3.89 ,$2.26 ,$2.11 ,$3.92 ,$4.95 ,$114.81 ,$98.63 ,$107.58 ,$457.32 ,$56.15 
+1570330891-235,https://www.payscale.com/cost-of-living-calculator/Montana-Bozeman,"$374,066 ","$1,172 / month",$129.10 / month,$137.61 / month,$2.49 / gallon,$3.39 ,$1.97 ,$1.84 ,$3.42 ,$4.32 ,$114.14 ,$98.06 ,$106.96 ,$454.67 ,$51.88 
+1570330597-97,https://www.payscale.com/cost-of-living-calculator/Florida-Jacksonville,"$309,524 ",$969.60 / month,$154.58 / month,$164.78 / month,$2.53 / gallon,$3.34 ,$1.95 ,$1.82 ,$3.37 ,$4.26 ,$96.65 ,$83.03 ,$90.57 ,$384.99 ,$50.34 
+1570330606-101,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Boone,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330548-74,https://www.payscale.com/cost-of-living-calculator/New_York-Ithaca,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330923-250,https://www.payscale.com/cost-of-living-calculator/Arizona-Tempe,"$391,407 ","$1,226 / month",$161.12 / month,$171.75 / month,$2.39 / gallon,$3.24 ,$1.89 ,$1.76 ,$3.27 ,$4.13 ,$108.16 ,$92.92 ,$101.35 ,$430.86 ,$48.23 
+1570330432-19,https://www.payscale.com/cost-of-living-calculator/Connecticut-Hamden,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330565-82,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Cambridge,"$1,109,025 ","$3,474 / month",$201.36 / month,$214.64 / month,$2.99 / gallon,$3.69 ,$2.15 ,$2.01 ,$3.72 ,$4.70 ,$132.96 ,$114.23 ,$124.59 ,$529.64 ,$66.24 
+1570330612-104,https://www.payscale.com/cost-of-living-calculator/Texas-San-Antonio,"$262,332 ",$821.77 / month,$147.04 / month,$156.74 / month,$2.31 / gallon,$2.75 ,$1.60 ,$1.50 ,$2.78 ,$3.51 ,$100.52 ,$86.36 ,$94.20 ,$400.43 ,$48.74 
+1570330840-211,https://www.payscale.com/cost-of-living-calculator/Indiana-West-Lafayette,"$354,160 ","$1,109 / month",$179.90 / month,$191.77 / month,$2.54 / gallon,$3.22 ,$1.88 ,$1.75 ,$3.25 ,$4.10 ,$103.74 ,$89.12 ,$97.20 ,$413.22 ,$49.36 
+1570330950-263,https://www.payscale.com/cost-of-living-calculator/California-Northridge,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330644-119,https://www.payscale.com/cost-of-living-calculator/Texas-Fort-Worth,"$327,915 ","$1,027 / month",$168.67 / month,$179.79 / month,$2.74 / gallon,$3.09 ,$1.80 ,$1.68 ,$3.11 ,$3.93 ,$108.05 ,$92.83 ,$101.25 ,$430.42 ,$57.54 
+1570330789-187,https://www.payscale.com/cost-of-living-calculator/Iowa-Grinnell,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330751-169,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Stout,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330676-134,https://www.payscale.com/cost-of-living-calculator/Alabama-Auburn,"$258,515 ",$809.81 / month,$173.53 / month,$184.98 / month,$2.34 / gallon,$3.40 ,$1.98 ,$1.85 ,$3.43 ,$4.33 ,$94.44 ,$81.13 ,$88.49 ,$376.17 ,$52.09 
+1570330670-131,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Raleigh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330742-165,https://www.payscale.com/cost-of-living-calculator/Missouri-Kansas-City,"$319,587 ","$1,001 / month",$180.74 / month,$192.66 / month,$2.57 / gallon,$3.34 ,$1.94 ,$1.81 ,$3.37 ,$4.25 ,$109.49 ,$94.06 ,$102.60 ,$436.15 ,$53.48 
+1570330725-157,https://www.payscale.com/cost-of-living-calculator/Michigan-Grand-Rapids,"$281,764 ",$882.64 / month,$149.55 / month,$159.42 / month,$2.66 / gallon,$3.10 ,$1.81 ,$1.69 ,$3.13 ,$3.95 ,$100.64 ,$86.45 ,$94.30 ,$400.87 ,$48.95 
+1570330776-181,https://www.payscale.com/cost-of-living-calculator/South_Dakota-Brookings,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330629-112,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Charlotte,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330885-232,https://www.payscale.com/cost-of-living-calculator/Washington-Bellingham,"$435,485 ","$1,364 / month",$134.80 / month,$143.69 / month,$3.15 / gallon,$3.51 ,$2.04 ,$1.91 ,$3.54 ,$4.46 ,$127.87 ,$109.85 ,$119.82 ,$509.36 ,$58.88 
+1570330627-111,https://www.payscale.com/cost-of-living-calculator/Texas-Longview,"$299,114 ",$936.99 / month,$129.94 / month,$138.51 / month,$2.59 / gallon,$3.07 ,$1.79 ,$1.67 ,$3.10 ,$3.91 ,$110.71 ,$95.11 ,$103.74 ,$441.00 ,$49.10 
+1570330753-170,https://www.payscale.com/cost-of-living-calculator/Wisconsin-La-Crosse,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330747-167,https://www.payscale.com/cost-of-living-calculator/Missouri-St.-Louis,"$252,269 ",$790.25 / month,$192.31 / month,$204.99 / month,$2.62 / gallon,$3.48 ,$2.03 ,$1.89 ,$3.51 ,$4.43 ,$113.03 ,$97.11 ,$105.92 ,$450.26 ,$49.98 
+1570330525-63,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Williamstown,"$426,463 ","$1,336 / month",$173.03 / month,$184.44 / month,$2.67 / gallon,$3.71 ,$2.16 ,$2.01 ,$3.74 ,$4.72 ,$116.58 ,$100.15 ,$109.24 ,$464.37 ,$52.96 
+1570330582-90,https://www.payscale.com/cost-of-living-calculator/Tennessee-Clarksville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330838-210,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Milwaukee,"$325,833 ","$1,021 / month",$179.73 / month,$191.59 / month,$2.49 / gallon,$3.26 ,$1.90 ,$1.77 ,$3.29 ,$4.15 ,$125.55 ,$107.85 ,$117.64 ,$500.09 ,$48.74 
+1570330472-38,https://www.payscale.com/cost-of-living-calculator/New_York-Loudonville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330714-152,https://www.payscale.com/cost-of-living-calculator/Georgia-Atlanta,"$327,568 ","$1,026 / month",$143.01 / month,$152.45 / month,$2.64 / gallon,$3.50 ,$2.04 ,$1.90 ,$3.53 ,$4.46 ,$119.01 ,$102.24 ,$111.52 ,$474.08 ,$52.50 
+1570330957-266,https://www.payscale.com/cost-of-living-calculator/California-Santa-Cruz,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330684-138,https://www.payscale.com/cost-of-living-calculator/Louisiana-Baton-Rouge,"$302,584 ",$947.86 / month,$137.65 / month,$146.73 / month,$2.42 / gallon,$3.22 ,$1.88 ,$1.75 ,$3.25 ,$4.10 ,$125.77 ,$108.04 ,$117.85 ,$500.98 ,$54.25 
+1570330721-155,https://www.payscale.com/cost-of-living-calculator/Texas-Houston,"$363,656 ","$1,139 / month",$185.43 / month,$197.66 / month,$2.54 / gallon,$2.89 ,$1.68 ,$1.57 ,$2.92 ,$3.68 ,$100.97 ,$86.74 ,$94.61 ,$402.19 ,$48.64 
+1570330455-30,https://www.payscale.com/cost-of-living-calculator/Vermont-Burlington,"$509,743 ","$1,597 / month",$199.68 / month,$212.86 / month,$2.92 / gallon,$3.73 ,$2.17 ,$2.03 ,$3.76 ,$4.74 ,$115.69 ,$99.39 ,$108.41 ,$460.85 ,$55.18 
+1570330712-151,https://www.payscale.com/cost-of-living-calculator/Virginia-Lexington,"$309,524 ",$969.60 / month,$175.20 / month,$186.76 / month,$2.45 / gallon,$2.95 ,$1.72 ,$1.60 ,$2.98 ,$3.76 ,$109.27 ,$93.87 ,$102.39 ,$435.27 ,$52.45 
+1570330508-55,https://www.payscale.com/cost-of-living-calculator/New_York-Poughkeepsie,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330569-84,https://www.payscale.com/cost-of-living-calculator/New_Hampshire-Hanover,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330468-36,https://www.payscale.com/cost-of-living-calculator/New_York-Farmingdale,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330563-81,https://www.payscale.com/cost-of-living-calculator/Connecticut-New-Haven,"$467,409 ","$1,464 / month",$181.74 / month,$193.73 / month,$2.76 / gallon,$4.27 ,$2.49 ,$2.32 ,$4.31 ,$5.44 ,$129.09 ,$110.90 ,$120.96 ,$514.21 ,$63.10 
+1570330428-17,https://www.payscale.com/cost-of-living-calculator/Connecticut-Fairfield,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330774-180,https://www.payscale.com/cost-of-living-calculator/Ohio-Athens-Township,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330859-220,https://www.payscale.com/cost-of-living-calculator/Indiana-Notre-Dame,"$67,630 ",$211.86 / month,$149.72 / month,$159.60 / month,$2.40 / gallon,$3.09 ,$1.80 ,$1.68 ,$3.12 ,$3.94 ,$111.48 ,$95.78 ,$104.47 ,$444.09 ,$48.18 
+1570330417-12,https://www.payscale.com/cost-of-living-calculator/Maine-Orono,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330481-42,https://www.payscale.com/cost-of-living-calculator/New_York-Syracuse,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330961-268,https://www.payscale.com/cost-of-living-calculator/California-Long-Beach,"$788,384 ","$2,470 / month",$180.74 / month,$192.66 / month,$3.42 / gallon,$3.73 ,$2.17 ,$2.03 ,$3.77 ,$4.75 ,$121.67 ,$104.53 ,$114.01 ,$484.66 ,$54.97 
+1570330781-183,https://www.payscale.com/cost-of-living-calculator/Minnesota-Mankato,"$251,228 ",$786.99 / month,$152.57 / month,$162.64 / month,$2.56 / gallon,$3.33 ,$1.94 ,$1.81 ,$3.36 ,$4.24 ,$131.74 ,$113.18 ,$123.45 ,$524.79 ,$53.63 
+1570330599-98,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Cullowhee,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330693-142,https://www.payscale.com/cost-of-living-calculator/Texas-Austin,"$353,246 ","$1,107 / month",$147.04 / month,$156.74 / month,$2.44 / gallon,$2.92 ,$1.70 ,$1.59 ,$2.95 ,$3.72 ,$110.05 ,$94.54 ,$103.12 ,$438.35 ,$51.88 
+1570330512-57,https://www.payscale.com/cost-of-living-calculator/New_York-Vestal,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330699-145,https://www.payscale.com/cost-of-living-calculator/Virginia-Blacksburg,"$229,714 ",$719.59 / month,$197.34 / month,$210.35 / month,$2.30 / gallon,$2.94 ,$1.71 ,$1.60 ,$2.96 ,$3.74 ,$123.00 ,$105.67 ,$115.26 ,$489.95 ,$51.93 
+1570330766-176,https://www.payscale.com/cost-of-living-calculator/Michigan-Ypsilanti,"$199,501 ",$624.95 / month,$157.10 / month,$167.46 / month,$2.57 / gallon,$3.67 ,$2.14 ,$2.00 ,$3.71 ,$4.68 ,$137.94 ,$118.51 ,$129.26 ,$549.49 ,$48.90 
+1570330521-61,https://www.payscale.com/cost-of-living-calculator/New_York-Bronx,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330870-225,https://www.payscale.com/cost-of-living-calculator/Idaho-Boise,"$305,013 ",$955.47 / month,$143.68 / month,$153.16 / month,$2.81 / gallon,$2.98 ,$1.74 ,$1.62 ,$3.01 ,$3.79 ,$114.47 ,$98.34 ,$107.27 ,$455.99 ,$48.07 
+1570330539-70,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Amherst,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330573-86,https://www.payscale.com/cost-of-living-calculator/Tennessee-Cleveland,"$252,963 ",$792.42 / month,$154.41 / month,$164.60 / month,$2.27 / gallon,$3.48 ,$2.03 ,$1.89 ,$3.51 ,$4.44 ,$94.21 ,$80.94 ,$88.28 ,$375.29 ,$45.76 
+1570330631-113,https://www.payscale.com/cost-of-living-calculator/Arkansas-Monticello,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330678-135,https://www.payscale.com/cost-of-living-calculator/Georgia-Athens,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330483-43,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Lowell,"$448,032 ","$1,403 / month",$201.36 / month,$214.64 / month,$2.99 / gallon,$3.69 ,$2.15 ,$2.01 ,$3.72 ,$4.70 ,$132.96 ,$114.23 ,$124.59 ,$529.64 ,$66.24 
+1570330409-8,https://www.payscale.com/cost-of-living-calculator/Maine-Portland,"$433,403 ","$1,358 / month",$195.49 / month,$208.39 / month,$2.82 / gallon,$3.34 ,$1.95 ,$1.82 ,$3.37 ,$4.25 ,$119.23 ,$102.43 ,$111.73 ,$474.96 ,$56.77 
+1570330716-153,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Durham,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330499-51,https://www.payscale.com/cost-of-living-calculator/New_York-Stony-Brook,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330969-272,https://www.payscale.com/cost-of-living-calculator/California-Santa-Barbara,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330447-26,https://www.payscale.com/cost-of-living-calculator/New_York-Garden-City,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330971-273,https://www.payscale.com/cost-of-living-calculator/California-San-Jose,"$860,907 ","$2,697 / month",$210.75 / month,$224.65 / month,$2.91 / gallon,$4.02 ,$2.34 ,$2.18 ,$4.06 ,$5.12 ,$128.53 ,$110.42 ,$120.44 ,$512.00 ,$55.07 
+1570330795-190,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Platteville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330708-149,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Davidson,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330940-258,https://www.payscale.com/cost-of-living-calculator/Colorado-Golden,"$544,805 ","$1,707 / month",$156.76 / month,$167.10 / month,$2.75 / gallon,$3.26 ,$1.90 ,$1.77 ,$3.29 ,$4.15 ,$116.58 ,$100.15 ,$109.24 ,$464.37 ,$55.28 
+1570330938-257,https://www.payscale.com/cost-of-living-calculator/Colorado-Boulder,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330810-197,https://www.payscale.com/cost-of-living-calculator/Kansas-Lawrence,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330710-150,https://www.payscale.com/cost-of-living-calculator/Tennessee-Nashville,"$316,117 ",$990.26 / month,$150.73 / month,$160.67 / month,$2.62 / gallon,$3.23 ,$1.88 ,$1.75 ,$3.26 ,$4.11 ,$90.45 ,$77.70 ,$84.76 ,$360.30 ,$53.37 
+1570330434-20,https://www.payscale.com/cost-of-living-calculator/New_York-Oneonta,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330900-239,https://www.payscale.com/cost-of-living-calculator/Colorado-Fort-Collins,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330491-47,https://www.payscale.com/cost-of-living-calculator/New_Jersey-New-Brunswick,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330853-217,https://www.payscale.com/cost-of-living-calculator/Ohio-Cleveland,"$306,401 ",$959.82 / month,$175.54 / month,$187.12 / month,$2.68 / gallon,$3.70 ,$2.16 ,$2.01 ,$3.74 ,$4.71 ,$112.04 ,$96.25 ,$104.98 ,$446.29 ,$54.56 
+1570330740-164,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Eau-Claire,"$274,824 ",$860.90 / month,$161.62 / month,$172.29 / month,$2.85 / gallon,$3.21 ,$1.87 ,$1.75 ,$3.24 ,$4.09 ,$122.56 ,$105.29 ,$114.84 ,$488.19 ,$52.40 
+1570330936-256,https://www.payscale.com/cost-of-living-calculator/New_Mexico-Socorro,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330814-199,https://www.payscale.com/cost-of-living-calculator/Ohio-Granville,"$537,002 ","$1,682 / month",$130.27 / month,$138.87 / month,$2.53 / gallon,$3.29 ,$1.92 ,$1.79 ,$3.32 ,$4.19 ,$101.96 ,$87.60 ,$95.54 ,$406.16 ,$50.13 
+1570330836-209,https://www.payscale.com/cost-of-living-calculator/Indiana-Greencastle,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330556-78,https://www.payscale.com/cost-of-living-calculator/New_York-New-York,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330682-137,https://www.payscale.com/cost-of-living-calculator/Virginia-Fairfax,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330952-264,https://www.payscale.com/cost-of-living-calculator/California-Riverside,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330476-40,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Gettysburg,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330695-143,https://www.payscale.com/cost-of-living-calculator/Virginia-University-of-Richmond,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330672-132,https://www.payscale.com/cost-of-living-calculator/Virginia-Ashland,"$282,423 ",$884.71 / month,$178.22 / month,$189.98 / month,$2.40 / gallon,$2.94 ,$1.71 ,$1.60 ,$2.97 ,$3.75 ,$119.46 ,$102.62 ,$111.94 ,$475.84 ,$52.09 
+1570330485-44,https://www.payscale.com/cost-of-living-calculator/Connecticut-Storrs,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330779-182,https://www.payscale.com/cost-of-living-calculator/Michigan-Kalamazoo,"$210,282 ",$658.72 / month,$145.03 / month,$154.59 / month,$2.61 / gallon,$2.68 ,$1.56 ,$1.46 ,$2.71 ,$3.42 ,$100.30 ,$86.17 ,$93.99 ,$399.55 ,$43.90 
+1570330831-207,https://www.payscale.com/cost-of-living-calculator/Illinois-Peoria,"$305,360 ",$956.56 / month,$165.98 / month,$176.93 / month,$2.70 / gallon,$3.08 ,$1.79 ,$1.67 ,$3.10 ,$3.92 ,$108.61 ,$93.30 ,$101.77 ,$432.62 ,$55.02 
+1570330422-14,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Fitchburg,"$417,441 ","$1,308 / month",$213.60 / month,$227.69 / month,$2.56 / gallon,$3.32 ,$1.93 ,$1.80 ,$3.35 ,$4.22 ,$130.75 ,$112.32 ,$122.52 ,$520.82 ,$61.97 
+1570330578-88,https://www.payscale.com/cost-of-living-calculator/Tennessee-Tusculum,"$165,415 ",$518.17 / month,$150.73 / month,$160.67 / month,$2.62 / gallon,$3.23 ,$1.88 ,$1.75 ,$3.26 ,$4.11 ,$90.45 ,$77.70 ,$84.76 ,$360.30 ,$53.37 
+1570330817-200,https://www.payscale.com/cost-of-living-calculator/Ohio-Columbus,"$266,496 ",$834.82 / month,$130.27 / month,$138.87 / month,$2.53 / gallon,$3.29 ,$1.92 ,$1.79 ,$3.32 ,$4.19 ,$101.96 ,$87.60 ,$95.54 ,$406.16 ,$50.13 
+1570330659-126,https://www.payscale.com/cost-of-living-calculator/Alabama-Tuscaloosa,"$271,354 ",$850.03 / month,$183.92 / month,$196.06 / month,$2.57 / gallon,$3.49 ,$2.03 ,$1.90 ,$3.52 ,$4.44 ,$99.75 ,$85.69 ,$93.47 ,$397.34 ,$61.04 
+1570330895-237,https://www.payscale.com/cost-of-living-calculator/Utah-Logan,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330561-80,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Philadelphia,"$449,365 ","$1,408 / month",$208.74 / month,$222.51 / month,$3.00 / gallon,$3.87 ,$2.25 ,$2.10 ,$3.90 ,$4.93 ,$117.02 ,$100.53 ,$109.65 ,$466.14 ,$55.18 
+1570330868-224,https://www.payscale.com/cost-of-living-calculator/Utah-Orem,"$348,388 ","$1,091 / month",$121.72 / month,$129.75 / month,$2.66 / gallon,$3.33 ,$1.94 ,$1.81 ,$3.36 ,$4.24 ,$122.78 ,$105.48 ,$115.05 ,$489.07 ,$51.37 
+1570330633-114,https://www.payscale.com/cost-of-living-calculator/Tennessee-Knoxville,"$249,146 ",$780.47 / month,$150.06 / month,$159.95 / month,$2.19 / gallon,$2.86 ,$1.67 ,$1.56 ,$2.89 ,$3.65 ,$96.76 ,$83.13 ,$90.67 ,$385.43 ,$44.01 
+1570330851-216,https://www.payscale.com/cost-of-living-calculator/Illinois-Champaign,"$266,496 ",$834.82 / month,$190.29 / month,$202.85 / month,$2.52 / gallon,$3.03 ,$1.77 ,$1.65 ,$3.06 ,$3.86 ,$104.51 ,$89.78 ,$97.93 ,$416.30 ,$48.43 
+1570330946-261,https://www.payscale.com/cost-of-living-calculator/California-Stanislaus,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330898-238,https://www.payscale.com/cost-of-living-calculator/Wyoming-Laramie,"$284,193 ",$890.25 / month,$183.25 / month,$195.34 / month,$2.47 / gallon,$3.64 ,$2.12 ,$1.98 ,$3.67 ,$4.63 ,$109.16 ,$93.78 ,$102.29 ,$434.83 ,$49.72 
+1570330912-245,https://www.payscale.com/cost-of-living-calculator/New_Mexico-Albuquerque,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330800-192,https://www.payscale.com/cost-of-living-calculator/North_Dakota-Grand-Forks,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330608-102,https://www.payscale.com/cost-of-living-calculator/Tennessee-Memphis,"$228,326 ",$715.25 / month,$173.03 / month,$184.44 / month,$2.33 / gallon,$3.03 ,$1.77 ,$1.65 ,$3.06 ,$3.86 ,$93.88 ,$80.65 ,$87.97 ,$373.97 ,$44.62 
+1570330804-194,https://www.payscale.com/cost-of-living-calculator/Illinois-Dekalb,"$341,022 ","$1,068 / month",$140.67 / month,$149.95 / month,$2.91 / gallon,$3.39 ,$1.97 ,$1.84 ,$3.42 ,$4.32 ,$120.23 ,$103.29 ,$112.66 ,$478.93 ,$49.46 
+1570330861-221,https://www.payscale.com/cost-of-living-calculator/Montana-Billings,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330595-96,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Wilmington,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330554-77,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Worcester,"$426,457 ","$1,336 / month",$213.60 / month,$227.69 / month,$2.56 / gallon,$3.32 ,$1.93 ,$1.80 ,$3.35 ,$4.22 ,$130.75 ,$112.32 ,$122.52 ,$520.82 ,$61.97 
+1570330636-115,https://www.payscale.com/cost-of-living-calculator/Florida-Miami,"$498,986 ","$1,563 / month",$165.31 / month,$176.22 / month,$2.93 / gallon,$3.51 ,$2.04 ,$1.91 ,$3.54 ,$4.47 ,$107.39 ,$92.26 ,$100.63 ,$427.77 ,$52.19 
+1570330487-45,https://www.payscale.com/cost-of-living-calculator/New_Jersey-Lawrenceville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330959-267,https://www.payscale.com/cost-of-living-calculator/California-East-Bay,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330844-213,https://www.payscale.com/cost-of-living-calculator/South_Dakota-Rapid-City,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330887-233,https://www.payscale.com/cost-of-living-calculator/Hawaii-Honolulu,"$1,046,899 ","$3,279 / month",$316.71 / month,$337.60 / month,$3.52 / gallon,$5.39 ,$3.14 ,$2.93 ,$5.44 ,$6.87 ,$128.31 ,$110.23 ,$120.23 ,$511.12 ,$66.55 
+1570330537-69,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Easton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330764-175,https://www.payscale.com/cost-of-living-calculator/Ohio-Bowling-Green,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330864-222,https://www.payscale.com/cost-of-living-calculator/Utah-Cedar-City,"$261,985 ",$820.69 / month,$147.37 / month,$157.09 / month,$2.72 / gallon,$3.13 ,$1.82 ,$1.70 ,$3.16 ,$3.99 ,$94.55 ,$81.22 ,$88.59 ,$376.61 ,$47.51 
+1570330657-125,https://www.payscale.com/cost-of-living-calculator/Texas-Arlington,"$345,219 ","$1,081 / month",$168.67 / month,$179.79 / month,$2.74 / gallon,$3.09 ,$1.80 ,$1.68 ,$3.11 ,$3.93 ,$108.05 ,$92.83 ,$101.25 ,$430.42 ,$57.54 
+1570330723-156,https://www.payscale.com/cost-of-living-calculator/South_Dakota-Spearfish,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330546-73,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Lewisburg,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330621-108,https://www.payscale.com/cost-of-living-calculator/Florida-Orlando,"$308,483 ",$966.34 / month,$186.44 / month,$198.74 / month,$2.45 / gallon,$3.40 ,$1.98 ,$1.85 ,$3.43 ,$4.33 ,$97.65 ,$83.89 ,$91.50 ,$388.96 ,$48.69 
+1570330934-255,https://www.payscale.com/cost-of-living-calculator/Utah-Provo,"$348,388 ","$1,091 / month",$121.72 / month,$129.75 / month,$2.66 / gallon,$3.33 ,$1.94 ,$1.81 ,$3.36 ,$4.24 ,$122.78 ,$105.48 ,$115.05 ,$489.07 ,$51.37 
+1570330883-231,https://www.payscale.com/cost-of-living-calculator/Idaho-Pocatello,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330529-65,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Swarthmore,"$978,750 ","$3,066 / month",$208.74 / month,$222.51 / month,$3.00 / gallon,$3.87 ,$2.25 ,$2.10 ,$3.90 ,$4.93 ,$117.02 ,$100.53 ,$109.65 ,$466.14 ,$55.18 
+1570330646-120,https://www.payscale.com/cost-of-living-calculator/Kentucky-Lexington,"$320,975 ","$1,005 / month",$149.55 / month,$159.42 / month,$2.47 / gallon,$3.04 ,$1.77 ,$1.65 ,$3.07 ,$3.87 ,$109.16 ,$93.78 ,$102.29 ,$434.83 ,$52.60 
+1570330772-179,https://www.payscale.com/cost-of-living-calculator/Illinois-Normal,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330872-226,https://www.payscale.com/cost-of-living-calculator/Colorado-Durango,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330730-159,https://www.payscale.com/cost-of-living-calculator/Ohio-Mayfield-Heights,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330857-219,https://www.payscale.com/cost-of-living-calculator/Illinois-Chicago,"$539,932 ","$1,691 / month",$151.23 / month,$161.21 / month,$3.30 / gallon,$3.60 ,$2.10 ,$1.96 ,$3.64 ,$4.59 ,$112.15 ,$96.35 ,$105.09 ,$446.73 ,$59.09 
+1570330571-85,https://www.payscale.com/cost-of-living-calculator/Florida-Fort-Lauderdale,"$528,481 ","$1,656 / month",$166.15 / month,$177.11 / month,$2.82 / gallon,$3.41 ,$1.99 ,$1.86 ,$3.44 ,$4.35 ,$107.06 ,$91.97 ,$100.32 ,$426.45 ,$52.86 
+1570330506-54,https://www.payscale.com/cost-of-living-calculator/Vermont-Middlebury,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330504-53,https://www.payscale.com/cost-of-living-calculator/Massachusetts-South-Hadley,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330445-25,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Huntingdon,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330878-229,https://www.payscale.com/cost-of-living-calculator/Montana-Missoula,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330430-18,https://www.payscale.com/cost-of-living-calculator/New_York-Plattsburgh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330691-141,https://www.payscale.com/cost-of-living-calculator/Oklahoma-Tulsa,"$225,203 ",$705.46 / month,$197.84 / month,$210.89 / month,$2.57 / gallon,$3.15 ,$1.84 ,$1.71 ,$3.18 ,$4.01 ,$100.97 ,$86.74 ,$94.61 ,$402.19 ,$53.22 
+1570330755-171,https://www.payscale.com/cost-of-living-calculator/Missouri-Springfield,"$243,247 ",$761.99 / month,$166.65 / month,$177.65 / month,$2.27 / gallon,$3.28 ,$1.91 ,$1.78 ,$3.31 ,$4.17 ,$109.27 ,$93.87 ,$102.39 ,$435.27 ,$48.54 
+1570330542-71,https://www.payscale.com/cost-of-living-calculator/New_York-Hamilton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330580-89,https://www.payscale.com/cost-of-living-calculator/Florida-Saint-Leo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330701-146,https://www.payscale.com/cost-of-living-calculator/Louisiana-New-Orleans,"$351,858 ","$1,102 / month",$144.69 / month,$154.24 / month,$2.74 / gallon,$3.24 ,$1.89 ,$1.76 ,$3.27 ,$4.13 ,$99.75 ,$85.69 ,$93.47 ,$397.34 ,$50.23 
+1570330881-230,https://www.payscale.com/cost-of-living-calculator/Alaska-Anchorage,"$510,784 ","$1,600 / month",$173.70 / month,$185.15 / month,$2.93 / gallon,$4.18 ,$2.44 ,$2.27 ,$4.22 ,$5.33 ,$159.20 ,$136.77 ,$149.18 ,$634.16 ,$63.21 
+1570330808-196,https://www.payscale.com/cost-of-living-calculator/Missouri-Columbia,"$283,499 ",$888.08 / month,$162.97 / month,$173.72 / month,$2.47 / gallon,$3.26 ,$1.90 ,$1.77 ,$3.29 ,$4.15 ,$111.04 ,$95.40 ,$104.05 ,$442.32 ,$49.77 
+1570330531-66,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Bethlehem,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330552-76,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Pittsburgh,"$317,505 ",$994.61 / month,$184.43 / month,$196.59 / month,$2.78 / gallon,$3.68 ,$2.14 ,$2.00 ,$3.71 ,$4.68 ,$103.85 ,$89.21 ,$97.31 ,$413.66 ,$50.13 
+1570330462-33,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Wellesley,"$1,356,983 ","$4,251 / month",$236.57 / month,$252.17 / month,$2.89 / gallon,$3.52 ,$2.05 ,$1.91 ,$3.55 ,$4.49 ,$149.68 ,$128.59 ,$140.26 ,$596.23 ,$66.81 
+1570330616-106,https://www.payscale.com/cost-of-living-calculator/Florida-Boca-Raton,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330665-129,https://www.payscale.com/cost-of-living-calculator/Arkansas-Fayetteville,"$263,026 ",$823.95 / month,$158.61 / month,$169.07 / month,$2.22 / gallon,$3.11 ,$1.81 ,$1.69 ,$3.13 ,$3.96 ,$97.87 ,$84.08 ,$91.71 ,$389.84 ,$50.49 
+1570330944-260,https://www.payscale.com/cost-of-living-calculator/California-Arcata,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330642-118,https://www.payscale.com/cost-of-living-calculator/West_Virginia-Morgantown,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330986-280,https://www.payscale.com/cost-of-living-calculator/California-Claremont,"$820,543 ","$2,570 / month",$180.74 / month,$192.66 / month,$3.42 / gallon,$3.73 ,$2.17 ,$2.03 ,$3.77 ,$4.75 ,$121.67 ,$104.53 ,$114.01 ,$484.66 ,$54.97 
+1570330411-9,https://www.payscale.com/cost-of-living-calculator/New_York-Fredonia,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330614-105,https://www.payscale.com/cost-of-living-calculator/Florida-Tampa,"$266,843 ",$835.90 / month,$194.99 / month,$207.85 / month,$2.77 / gallon,$3.33 ,$1.94 ,$1.81 ,$3.36 ,$4.24 ,$108.83 ,$93.49 ,$101.98 ,$433.50 ,$49.93 
+1570330931-254,https://www.payscale.com/cost-of-living-calculator/Arizona-Tucson,"$277,600 ",$869.60 / month,$151.23 / month,$161.21 / month,$2.52 / gallon,$3.42 ,$1.99 ,$1.86 ,$3.45 ,$4.35 ,$112.04 ,$96.25 ,$104.98 ,$446.29 ,$52.14 
+1570330640-117,https://www.payscale.com/cost-of-living-calculator/Maryland-Baltimore,"$509,743 ","$1,597 / month",$179.56 / month,$191.41 / month,$2.69 / gallon,$3.57 ,$2.08 ,$1.94 ,$3.60 ,$4.55 ,$101.41 ,$87.12 ,$95.03 ,$403.96 ,$54.40 
+1570330415-11,https://www.payscale.com/cost-of-living-calculator/New_York-Potsdam,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330749-168,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Moon,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330825-204,https://www.payscale.com/cost-of-living-calculator/Iowa-Ames,"$331,038 ","$1,037 / month",$133.63 / month,$142.44 / month,$2.79 / gallon,$3.02 ,$1.76 ,$1.64 ,$3.05 ,$3.85 ,$110.38 ,$94.82 ,$103.43 ,$439.68 ,$46.22 
+1570330533-67,https://www.payscale.com/cost-of-living-calculator/New_Jersey-Hoboken,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330942-259,https://www.payscale.com/cost-of-living-calculator/California-Santa-Paula,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330798-191,https://www.payscale.com/cost-of-living-calculator/Kansas-Manhattan,"$294,256 ",$921.78 / month,$149.39 / month,$159.24 / month,$2.39 / gallon,$3.14 ,$1.83 ,$1.71 ,$3.17 ,$3.99 ,$104.73 ,$89.97 ,$98.14 ,$417.19 ,$48.79 
+1570330478-41,https://www.payscale.com/cost-of-living-calculator/Maine-Waterville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330544-72,https://www.payscale.com/cost-of-living-calculator/Rhode_Island-Providence,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330978-276,https://www.payscale.com/cost-of-living-calculator/California-San-Diego,"$817,185 ","$2,560 / month",$192.64 / month,$205.35 / month,$3.36 / gallon,$3.76 ,$2.19 ,$2.04 ,$3.79 ,$4.79 ,$119.01 ,$102.24 ,$111.52 ,$474.08 ,$52.55 
+1570330674-133,https://www.payscale.com/cost-of-living-calculator/Delaware-Newark,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330436-21,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Dartmouth,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330732-160,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Green-Bay,"$281,070 ",$880.47 / month,$172.86 / month,$184.26 / month,$2.62 / gallon,$3.03 ,$1.77 ,$1.65 ,$3.06 ,$3.86 ,$115.14 ,$98.91 ,$107.89 ,$458.64 ,$47.56 
+1570330559-79,https://www.payscale.com/cost-of-living-calculator/New_York-Brooklyn,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330842-212,https://www.payscale.com/cost-of-living-calculator/Michigan-Ann-Arbor,"$407,378 ","$1,276 / month",$157.10 / month,$167.46 / month,$2.57 / gallon,$3.67 ,$2.14 ,$2.00 ,$3.71 ,$4.68 ,$137.94 ,$118.51 ,$129.26 ,$549.49 ,$48.90 
+1570330527-64,https://www.payscale.com/cost-of-living-calculator/Massachusetts-Chestnut-Hill,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330601-99,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Greenville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330704-147,https://www.payscale.com/cost-of-living-calculator/Texas-College-Station,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330661-127,https://www.payscale.com/cost-of-living-calculator/North_Carolina-Chapel-Hill,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330502-52,https://www.payscale.com/cost-of-living-calculator/New_York-Brookville,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330908-243,https://www.payscale.com/cost-of-living-calculator/Colorado-Colorado-Springs,"$341,101 ","$1,069 / month",$123.57 / month,$131.72 / month,$2.54 / gallon,$3.23 ,$1.88 ,$1.76 ,$3.26 ,$4.12 ,$113.03 ,$97.11 ,$105.92 ,$450.26 ,$48.54 
+1570330734-161,https://www.payscale.com/cost-of-living-calculator/Ohio-Kent,"$546,401 ","$1,712 / month",$162.63 / month,$173.36 / month,$2.85 / gallon,$3.38 ,$1.97 ,$1.84 ,$3.41 ,$4.30 ,$93.11 ,$79.99 ,$87.25 ,$370.88 ,$43.29 
+1570330980-277,https://www.payscale.com/cost-of-living-calculator/California-San-Lios-Obispo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330849-215,https://www.payscale.com/cost-of-living-calculator/Illinois-Evanston,"$854,777 ","$2,678 / month",$151.23 / month,$161.21 / month,$3.30 / gallon,$3.60 ,$2.10 ,$1.96 ,$3.64 ,$4.59 ,$112.15 ,$96.35 ,$105.09 ,$446.73 ,$59.09 
+1570330834-208,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Madison,"$379,618 ","$1,189 / month",$176.38 / month,$188.01 / month,$2.80 / gallon,$3.43 ,$2.00 ,$1.86 ,$3.46 ,$4.36 ,$135.51 ,$116.41 ,$126.98 ,$539.78 ,$54.61 
+1570330413-10,https://www.payscale.com/cost-of-living-calculator/New_York-Niagara-University,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330744-166,https://www.payscale.com/cost-of-living-calculator/Wisconsin-Oshkosh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330550-75,https://www.payscale.com/cost-of-living-calculator/New_York-Troy,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330663-128,https://www.payscale.com/cost-of-living-calculator/Alabama-Huntsville,"$258,168 ",$808.73 / month,$183.92 / month,$196.06 / month,$2.49 / gallon,$3.20 ,$1.86 ,$1.74 ,$3.23 ,$4.07 ,$106.95 ,$91.88 ,$100.21 ,$426.01 ,$55.12 
+1570330588-93,https://www.payscale.com/cost-of-living-calculator/Kentucky-Morehead,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330929-253,https://www.payscale.com/cost-of-living-calculator/Washington-Seattle,"$673,874 ","$2,111 / month",$206.39 / month,$220.00 / month,$3.47 / gallon,$4.22 ,$2.46 ,$2.29 ,$4.26 ,$5.37 ,$137.50 ,$118.13 ,$128.85 ,$547.72 ,$69.64 
+1570330984-279,https://www.payscale.com/cost-of-living-calculator/California-Berkeley,"$1,128,030 ","$3,534 / month",$190.46 / month,$203.03 / month,$3.40 / gallon,$4.18 ,$2.43 ,$2.27 ,$4.22 ,$5.32 ,$136.28 ,$117.08 ,$127.70 ,$542.87 ,$62.69 
+1570330623-109,https://www.payscale.com/cost-of-living-calculator/Texas-El-Paso,"$271,701 ",$851.12 / month,$155.25 / month,$165.49 / month,$2.66 / gallon,$3.47 ,$2.02 ,$1.88 ,$3.50 ,$4.41 ,$107.17 ,$92.07 ,$100.42 ,$426.89 ,$45.04 
+1570330586-92,https://www.payscale.com/cost-of-living-calculator/Mississippi-Clinton,"$399,656 ","$1,252 / month",$175.04 / month,$186.58 / month,$2.26 / gallon,$2.95 ,$1.72 ,$1.60 ,$2.97 ,$3.75 ,$98.53 ,$84.65 ,$92.33 ,$392.49 ,$48.90 
+1570330967-271,https://www.payscale.com/cost-of-living-calculator/California-Chico,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330426-16,https://www.payscale.com/cost-of-living-calculator/New_York-Saratoga-Springs,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330593-95,https://www.payscale.com/cost-of-living-calculator/Arkansas-Jonesboro,"$257,821 ",$807.64 / month,$146.03 / month,$155.67 / month,$2.26 / gallon,$3.02 ,$1.76 ,$1.64 ,$3.04 ,$3.84 ,$90.45 ,$77.70 ,$84.76 ,$360.30 ,$45.91 
+1570330495-49,https://www.payscale.com/cost-of-living-calculator/New_York-Hempstead,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330706-148,https://www.payscale.com/cost-of-living-calculator/Virginia-Charlottesville,"$376,495 ","$1,179 / month",$159.11 / month,$169.61 / month,$2.24 / gallon,$3.52 ,$2.05 ,$1.91 ,$3.55 ,$4.49 ,$122.33 ,$105.10 ,$114.63 ,$487.31 ,$59.86 
+1570330576-87,https://www.payscale.com/cost-of-living-calculator/Virginia-Virginia-Beach,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330727-158,https://www.payscale.com/cost-of-living-calculator/Kansas-Pittsburg,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330497-50,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Lancaster,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330791-188,https://www.payscale.com/cost-of-living-calculator/North_Dakota-Fargo,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330625-110,https://www.payscale.com/cost-of-living-calculator/Florida-Tallahassee,"$315,423 ",$988.08 / month,$144.36 / month,$153.88 / month,$2.43 / gallon,$3.66 ,$2.13 ,$1.99 ,$3.69 ,$4.66 ,$109.05 ,$93.68 ,$102.18 ,$434.39 ,$51.06 
+1570330793-189,https://www.payscale.com/cost-of-living-calculator/Ohio-Springfield,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330419-13,https://www.payscale.com/cost-of-living-calculator/Rhode_Island-Bris,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330518-60,https://www.payscale.com/cost-of-living-calculator/Connecticut-Middletown,"$616,230 ","$1,930 / month",$161.62 / month,$172.29 / month,$2.94 / gallon,$3.35 ,$1.95 ,$1.82 ,$3.38 ,$4.27 ,$125.77 ,$108.04 ,$117.85 ,$500.98 ,$60.58 
+1570330874-227,https://www.payscale.com/cost-of-living-calculator/Washington-Cheney,"$336,194 ","$1,053 / month",$126.75 / month,$135.11 / month,$2.93 / gallon,$3.23 ,$1.88 ,$1.75 ,$3.26 ,$4.11 ,$125.66 ,$107.95 ,$117.74 ,$500.54 ,$50.23 
+1570330460-32,https://www.payscale.com/cost-of-living-calculator/Pennsylvania-Chester,"$244,957 ",$767.34 / month,$208.74 / month,$222.51 / month,$3.00 / gallon,$3.87 ,$2.25 ,$2.10 ,$3.90 ,$4.93 ,$117.02 ,$100.53 ,$109.65 ,$466.14 ,$55.18 
+1570330618-107,https://www.payscale.com/cost-of-living-calculator/South_Carolina-Columbia,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330948-262,https://www.payscale.com/cost-of-living-calculator/California-Dominguez-Hills,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330806-195,https://www.payscale.com/cost-of-living-calculator/Nebraska-Lincoln,"$286,622 ",$897.86 / month,$120.21 / month,$128.14 / month,$2.66 / gallon,$3.20 ,$1.87 ,$1.74 ,$3.23 ,$4.08 ,$113.37 ,$97.39 ,$106.23 ,$451.58 ,$53.22 
+1570330650-122,https://www.payscale.com/cost-of-living-calculator/Texas-Beaumont,"$311,953 ",$977.21 / month,$216.11 / month,$230.37 / month,$2.47 / gallon,$2.99 ,$1.74 ,$1.63 ,$3.02 ,$3.81 ,$100.75 ,$86.55 ,$94.40 ,$401.31 ,$50.23 
+1570330653-123,https://www.payscale.com/cost-of-living-calculator/Mississippi-University,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330680-136,https://www.payscale.com/cost-of-living-calculator/South_Carolina-Clemson,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330655-124,https://www.payscale.com/cost-of-living-calculator/Tennessee-Cookeville,"$237,695 ",$744.60 / month,$166.99 / month,$178.01 / month,$2.26 / gallon,$2.85 ,$1.66 ,$1.55 ,$2.88 ,$3.63 ,$99.20 ,$85.22 ,$92.95 ,$395.14 ,$51.83 
+1570330443-24,https://www.payscale.com/cost-of-living-calculator/New_Jersey-Teaneck,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330697-144,https://www.payscale.com/cost-of-living-calculator/Maryland-College-Park,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1570330955-265,https://www.payscale.com/cost-of-living-calculator/California-Sacramento,"$474,696 ","$1,487 / month",$149.72 / month,$159.60 / month,$3.20 / gallon,$3.89 ,$2.26 ,$2.11 ,$3.92 ,$4.95 ,$114.81 ,$98.63 ,$107.58 ,$457.32 ,$56.15 
