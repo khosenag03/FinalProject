@@ -1,0 +1,232 @@
+,Name,Rank,Tuition and fees,City,State
+0,Princeton University,1,"$45,320 ",Princeton, NJ
+1,Harvard University,2,"$47,074 ",Cambridge, MA
+2,University of Chicago,3,"$52,491 ",Chicago, IL
+3,Yale University,3,"$49,480 ",New Haven, CT
+4,Columbia University,5,"$55,056 ",New York, NY
+5,Stanford University,5,"$47,940 ",Stanford, CA
+6,Massachusetts Institute of Technology,7,"$48,452 ",Cambridge, MA
+7,Duke University,8,"$51,265 ",Durham, NC
+8,University of Pennsylvania,8,"$51,464 ",Philadelphia, PA
+9,Johns Hopkins University,10,"$50,410 ",Baltimore, MD
+10,Dartmouth College,11,"$51,438 ",Hanover, NH
+11,California Institute of Technology,12,"$47,577 ",Pasadena, CA
+12,Northwestern University,12,"$50,855 ",Evanston, IL
+13,Brown University,14,"$51,367 ",Providence, RI
+14,Cornell University,15,"$50,953 ",Ithaca, NY
+15,Rice University,15,"$43,918 ",Houston, TX
+16,University of Notre Dame,15,"$49,685 ",Notre Dame, IN
+17,Vanderbilt University,15,"$45,610 ",Nashville, TN
+18,Washington University in St. Louis,19,"$49,770 ",St. Louis, MO
+19,Emory University,20,"$47,954 ",Atlanta, GA
+20,Georgetown University,20,"$50,547 ",Washington, DC
+21,University of California--Berkeley,20,"$40,191 ",Berkeley, CA
+22,University of Southern California,23,"$52,217 ",Los Angeles, CA
+23,Carnegie Mellon University,24,"$52,040 ",Pittsburgh, PA
+24,University of California--Los Angeles,24,"$39,518 ",Los Angeles, CA
+25,University of Virginia,24,"$45,066 ",Charlottesville, VA
+26,Tufts University,27,"$52,430 ",Medford, MA
+27,University of Michigan--Ann Arbor,27,"$43,476 ",Ann Arbor, MI
+28,Wake Forest University,27,"$49,308 ",Winston-Salem, NC
+29,University of North Carolina--Chapel Hill,30,"$33,916 ",Chapel Hill, NC
+30,Boston College,31,"$51,296 ",Chestnut Hill, MA
+31,College of William & Mary,32,"$41,718 ",Williamsburg, VA
+32,University of Rochester,32,"$50,142 ",Rochester, NY
+33,Brandeis University,34,"$51,570 ",Waltham, MA
+34,Georgia Institute of Technology,34,"$32,404 ",Atlanta, GA
+35,New York University,36,"$49,062 ",New York, NY
+36,Case Western Reserve University,37,"$46,006 ",Cleveland, OH
+37,University of California--Santa Barbara,37,"$40,704 ",Santa Barbara, CA
+38,Boston University,39,"$50,240 ",Boston, MA
+39,Northeastern University,39,"$47,655 ",Boston, MA
+40,Rensselaer Polytechnic Institute,39,"$50,797 ",Troy, NY
+41,Tulane University,39,"$51,010 ",New Orleans, LA
+42,University of California--Irvine,39,"$39,458 ",Irvine, CA
+43,Lehigh University,44,"$48,320 ",Bethlehem, PA
+44,University of California--Davis,44,"$40,728 ",Davis, CA
+45,University of California--San Diego,44,"$41,387 ",La Jolla, CA
+46,University of Illinois--Urbana-Champaign,44,"$31,320 ",Champaign, IL
+47,University of Miami,44,"$47,004 ",Coral Gables, FL
+48,University of Wisconsin--Madison,44,"$32,738 ",Madison, WI
+49,Pepperdine University,50,"$50,022 ",Malibu, CA
+50,University of Florida,50,"$28,666 ",Gainesville, FL
+51,Villanova University,50,"$49,280 ",Villanova, PA
+52,Pennsylvania State University--University Park,50,"$32,382 ",University Park, PA
+53,Ohio State University--Columbus,54,"$29,229 ",Columbus, OH
+54,University of Washington,54,"$34,791 ",Seattle, WA
+55,George Washington University,56,"$51,950 ",Washington, DC
+56,Southern Methodist University,56,"$50,358 ",Dallas, TX
+57,University of Georgia,56,"$29,844 ",Athens, GA
+58,University of Texas--Austin,56,"$34,676 ",Austin, TX
+59,Fordham University,60,"$47,317 ",New York, NY
+60,Purdue University--West Lafayette,60,"$28,804 ",West Lafayette, IN
+61,Syracuse University,60,"$45,022 ",Syracuse, NY
+62,University of Connecticut,60,"$35,858 ",Storrs, CT
+63,University of Maryland--College Park,60,"$32,045 ",College Park, MD
+64,Worcester Polytechnic Institute,60,"$46,994 ",Worcester, MA
+65,Clemson University,66,"$32,796 ",Clemson, SC
+66,Yeshiva University,66,"$40,670 ",New York, NY
+67,Brigham Young University--Provo,68,"$5,300 ",Provo, UT
+68,University of Pittsburgh,68,"$29,758 ",Pittsburgh, PA
+69,Rutgers University--New Brunswick,70,"$30,023 ",Piscataway, NJ
+70,Baylor University,71,"$42,006 ",Waco, TX
+71,Stevens Institute of Technology,71,"$48,838 ",Hoboken, NJ
+72,University of Minnesota--Twin Cities,71,"$22,210 ",Minneapolis, MN
+73,American University,74,"$44,853 ",Washington, DC
+74,Clark University,74,"$43,150 ",Worcester, MA
+75,Texas A&M University--College Station,74,"$28,768 ",College Station, TX
+76,University of Massachusetts--Amherst,74,"$30,123 ",Amherst, MA
+77,Virginia Tech,74,"$29,371 ",Blacksburg, VA
+78,Miami University--Oxford,79,"$31,592 ",Oxford, OH
+79,University of California--Santa Cruz,79,"$40,241 ",Santa Cruz, CA
+80,University of Delaware,79,"$31,420 ",Newark, DE
+81,Colorado School of Mines,82,"$34,828 ",Golden, CO
+82,Michigan State University,82,"$39,090 ",East Lansing, MI
+83,Texas Christian University,82,"$42,670 ",Fort Worth, TX
+84,University of Iowa,82,"$28,413 ",Iowa City, IA
+85,Binghamton University--SUNY,86,"$22,164 ",Binghamton, NY
+86,Indiana University--Bloomington,86,"$34,246 ",Bloomington, IN
+87,Marquette University,86,"$38,470 ",Milwaukee, WI
+88,University of Denver,86,"$46,362 ",Denver, CO
+89,University of San Diego,86,"$46,140 ",San Diego, CA
+90,University of Tulsa,86,"$38,796 ",Tulsa, OK
+91,Florida State University,92,"$24,673 ",Tallahassee, FL
+92,North Carolina State University--Raleigh,92,"$26,399 ",Raleigh, NC
+93,University of Colorado--Boulder,92,"$35,079 ",Boulder, CO
+94,University of Vermont,92,"$40,364 ",Burlington, VT
+95,Drexel University,96,"$51,030 ",Philadelphia, PA
+96,Saint Louis University,96,"$40,726 ",St. Louis, MO
+97,Stony Brook University--SUNY,96,"$26,266 ",Stony Brook, NY
+98,Auburn University,99,"$28,840 ",Auburn, AL
+99,Loyola University Chicago,99,"$41,384 ",Chicago, IL
+100,SUNY College of Environmental Science and Forestry,99,"$17,620 ",Syracuse, NY
+101,University at Buffalo--SUNY,99,"$26,270 ",Buffalo, NY
+102,Illinois Institute of Technology,103,"$45,214 ",Chicago, IL
+103,University of Alabama,103,"$26,950 ",Tuscaloosa, AL
+104,University of Oregon,103,"$33,442 ",Eugene, OR
+105,University of Tennessee,103,"$30,858 ",Knoxville, TN
+106,Rochester Institute of Technology,107,"$38,568 ",Rochester, NY
+107,University of New Hampshire,107,"$31,424 ",Durham, NH
+108,University of San Francisco,107,"$44,494 ",San Francisco, CA
+109,University of South Carolina,107,"$31,282 ",Columbia, SC
+110,Iowa State University,111,"$21,483 ",Ames, IA
+111,University of Dayton,111,"$40,940 ",Dayton, OH
+112,University of Missouri,111,"$25,892 ",Columbia, MO
+113,University of Nebraska--Lincoln,111,"$23,148 ",Lincoln, NE
+114,University of Oklahoma,111,"$21,451 ",Norman, OK
+115,University of the Pacific,111,"$44,588 ",Stockton, CA
+116,University of Utah,111,"$27,039 ",Salt Lake City, UT
+117,Michigan Technological University,118,"$30,968 ",Houghton, MI
+118,Seton Hall University,118,"$39,258 ",South Orange, NJ
+119,Temple University,118,"$25,994 ",Philadelphia, PA
+120,University of California--Riverside,118,"$40,263 ",Riverside, CA
+121,University of Kansas,118,"$25,932 ",Lawrence, KS
+122,University of St. Thomas,118,"$39,594 ",St. Paul, MN
+123,The Catholic University of America,124,"$42,536 ",Washington, DC
+124,DePaul University,124,"$37,626 ",Chicago, IL
+125,Duquesne University,124,"$35,062 ",Pittsburgh, PA
+126,Howard University,124,"$24,908 ",Washington, DC
+127,University of Arizona,124,"$30,025 ",Tucson, AZ
+128,Arizona State University--Tempe,129,"$25,458 ",Tempe, AZ
+129,Clarkson University,129,"$46,132 ",Potsdam, NY
+130,Colorado State University,129,"$28,374 ",Fort Collins, CO
+131,New School,129,"$45,535 ",New York, NY
+132,Hofstra University,133,"$42,160 ",Hempstead, NY
+133,University of Kentucky,133,"$26,334 ",Lexington, KY
+134,Kansas State University,135,"$23,429 ",Manhattan, KS
+135,Louisiana State University--Baton Rouge,135,"$27,005 ",Baton Rouge, LA
+136,Mercer University,135,"$35,130 ",Macon, GA
+137,New Jersey Institute of Technology,135,"$30,326 ",Newark, NJ
+138,Rutgers University--Newark,135,"$29,480 ",Newark, NJ
+139,University of Arkansas,135,"$23,168 ",Fayetteville, AR
+140,University of Cincinnati,135,"$26,334 ",Cincinnati, OH
+141,University of Mississippi,135,"$22,012 ",University, MS
+142,George Mason University,143,"$32,582 ",Fairfax, VA
+143,Oregon State University,143,"$28,846 ",Corvallis, OR
+144,Washington State University,143,"$25,673 ",Pullman, WA
+145,Adelphi University,146,"$34,034 ",Garden City, NY
+146,Ohio University,146,"$21,208 ",Athens, OH
+147,San Diego State University,146,"$18,244 ",San Diego, CA
+148,St. John Fisher College,146,"$31,880 ",Rochester, NY
+149,University at Albany--SUNY,146,"$22,244 ",Albany, NY
+150,University of Texas--Dallas,146,"$33,654 ",Richardson, TX
+151,Illinois State University,152,"$20,886 ",Normal, IL
+152,Immaculata University,152,"$35,210 ",Immaculata, PA
+153,Oklahoma State University,152,"$20,978 ",Stillwater, OK
+154,University of California--Merced,152,"$39,944 ",Merced, CA
+155,University of Illinois--Chicago,152,"$26,526 ",Chicago, IL
+156,University of La Verne,152,"$39,900 ",La Verne, CA
+157,University of Massachusetts--Lowell,152,"$29,125 ",Lowell, MA
+158,Seattle Pacific University,159,"$38,940 ",Seattle, WA
+159,University of Alabama--Birmingham,159,"$17,654 ",Birmingham, AL
+160,University of Maryland--Baltimore County,159,"$24,492 ",Baltimore, MD
+161,University of Rhode Island,159,"$28,852 ",Kingston, RI
+162,University of South Florida,159,"$17,325 ",Tampa, FL
+163,Biola University,164,"$36,696 ",La Mirada, CA
+164,Maryville University of St. Louis,164,"$27,958 ",St Louis, MO
+165,Missouri University of Science & Technology,164,"$26,152 ",Rolla, MO
+166,St. John's University,164,"$39,460 ",Queens, NY
+167,Virginia Commonwealth University,164,"$31,608 ",Richmond, VA
+168,Union University,169,"$30,420 ",Jackson, TN
+169,University of Hawaii--Manoa,169,"$33,764 ",Honolulu, HI
+170,Edgewood College,171,"$27,530 ",Madison, WI
+171,Florida Institute of Technology,171,"$40,446 ",Melbourne, FL
+172,University of Idaho,171,"$22,040 ",Moscow, ID
+173,University of Louisville,171,"$24,626 ",Louisville, KY
+174,University of Wyoming,171,"$16,215 ",Laramie, WY
+175,Ball State University,176,"$25,428 ",Muncie, IN
+176,Lipscomb University,176,"$29,756 ",Nashville, TN
+177,Mississippi State University,176,"$20,142 ",Mississippi State, MS
+178,Montclair State University,176,"$20,318 ",Montclair, NJ
+179,Texas Tech University,176,"$22,861 ",Lubbock, TX
+180,University of Central Florida,176,"$22,467 ",Orlando, FL
+181,University of New Mexico,176,"$21,302 ",Albuquerque, NM
+182,Andrews University,183,"$27,684 ",Berrien Springs, MI
+183,Azusa Pacific University,183,"$36,120 ",Azusa, CA
+184,University of Maine,183,"$29,498 ",Orono, ME
+185,West Virginia University,183,"$21,432 ",Morgantown, WV
+186,Widener University,183,"$42,870 ",Chester, PA
+187,Kent State University,188,"$18,376 ",Kent, OH
+188,North Dakota State University,188,"$19,790 ",Fargo, ND
+189,Pace University,188,"$42,772 ",New York, NY
+190,Robert Morris University,188,"$28,250 ",Moon Township, PA
+191,Suffolk University,188,"$35,578 ",Boston, MA
+192,University of Hartford,188,"$37,790 ",West Hartford, CT
+193,Bowling Green State University,194,"$18,332 ",Bowling Green, OH
+194,University of Houston,194,"$25,410 ",Houston, TX
+195,Western Michigan University,194,"$25,713 ",Kalamazoo, MI
+196,Indiana University-Purdue University--Indianapolis,197,"$29,791 ",Indianapolis, IN
+197,Lesley University,197,"$25,750 ",Cambridge, MA
+198,University of Alabama--Huntsville,197,"$20,622 ",Huntsville, AL
+199,University of Colorado--Denver,197,"$29,334 ",Denver, CO
+200,University of Nevada--Reno,197,"$21,052 ",Reno, NV
+201,California State University--Fullerton,202,"$17,596 ",Fullerton, CA
+202,Central Michigan University,202,"$23,670 ",Mount Pleasant, MI
+203,Louisiana Tech University,202,"$25,851 ",Ruston, LA
+204,South Dakota State University,202,"$11,403 ",Brookings, SD
+205,University of Alaska--Fairbanks,202,"$22,469 ",Fairbanks, AK
+206,University of North Carolina--Charlotte,202,"$20,193 ",Charlotte, NC
+207,University of North Dakota,202,"$18,899 ",Grand Forks, ND
+208,University of South Dakota,202,"$11,688 ",Vermillion, SD
+209,East Carolina University,210,"$22,904 ",Greenville, NC
+210,Montana State University,210,"$23,042 ",Bozeman, MT
+211,Old Dominion University,210,"$27,028 ",Norfolk, VA
+212,University of Missouri--Kansas City,210,"$22,714 ",Kansas City, MO
+213,Ashland University,214,"$20,392 ",Ashland, OH
+214,Dallas Baptist University,214,"$26,180 ",Dallas, TX
+215,Northern Illinois University,214,"$23,799 ",DeKalb, IL
+216,Nova Southeastern University,214,"$27,660 ",Ft. Lauderdale, FL
+217,Southern Illinois University--Carbondale,214,"$27,130 ",Carbondale, IL
+218,University of Montana,214,"$24,562 ",Missoula, MT
+219,Benedictine University,220,"$32,170 ",Lisle, IL
+220,California State University--Fresno,220,"$17,209 ",Fresno, CA
+221,Gardner-Webb University,220,"$29,850 ",Boiling Springs, NC
+222,New Mexico State University,220,"$21,234 ",Las Cruces, NM
+223,Shenandoah University,220,"$31,322 ",Winchester, VA
+224,Tennessee Technological University,220,"$24,800 ",Cookeville, TN
+225,University of Massachusetts--Boston,220,"$32,023 ",Boston, MA
+226,University of Massachusetts--Dartmouth,220,"$19,270 ",North Dartmouth, MA
+227,University of Missouri--St. Louis,220,"$26,277 ",St. Louis, MO
+228,University of North Carolina--Greensboro,220,"$21,595 ",Greensboro, NC
+229,University of Southern Mississippi,220,"$16,094 ",Hattiesburg, MS
+230,Utah State University,220,"$19,772 ",Logan, UT
