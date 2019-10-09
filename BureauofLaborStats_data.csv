@@ -1,0 +1,48 @@
+﻿web-scraper-order,web-scraper-start-url,Item,2014,2015,2016,2017,Percent change
+1570238345-40,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Healthcare,"4,290","4,342","4,612","4,928",1.2
+1570238345-48,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Personal insurance and pensions,"5,726","6,349","6,831","6,771",10.9
+1570238345-30,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,"Utilities, fuels, and public services","3,921","3,885","3,884","3,836",-0.9
+1570238345-17,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Food at home,"3,971","4,015","4,049","4,363",1.1
+1570238345-6,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Income before taxes,"$66,877 ","$69,627 ","$74,664 ","$73,573 ",4.1
+1570238345-4,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Number of consumer units (in thousands),"127,006","128,437","129,549","130,001",…
+1570238345-5,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Consumer unit characteristics,,null,null,null,null
+1570238345-46,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Miscellaneous,782,871,959,"1,010",11.4
+1570238345-44,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Education,"1,236","1,315","1,329","1,491",6.4
+1570238345-14,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Percent homeowner,63,62,62,63,…
+1570238345-22,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Other food at home,"1,382","1,419","1,442","1,568",2.7
+1570238345-41,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Entertainment,"2,728","2,842","2,913","3,203",4.2
+1570238345-24,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Alcoholic beverages,463,515,484,558,11.2
+1570238345-28,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Rented dwellings,"3,631","3,802","4,035","4,167",4.7
+1570238345-19,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,"Meats, poultry, fish, and eggs",892,896,890,944,0.4
+1570238345-34,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Apparel and services,"1,786","1,846","1,803","1,833",3.4
+1570238345-35,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Transportation,"9,073","9,503","9,049","9,576",4.7
+1570238345-31,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Household operations,"1,174","1,309","1,384","1,412",11.5
+1570238345-16,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Food,"6,759","7,023","7,203","7,729",3.9
+1570238345-8,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Average number in consumer unit,,null,null,null,null
+1570238345-9,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,People,2.5,2.5,2.5,2.5,…
+1570238345-23,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Food away from home,"2,787","3,008","3,154","3,365",7.9
+1570238345-45,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Tobacco products and smoking supplies,319,349,337,332,9.4
+1570238345-33,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Household furnishings and equipment,"1,581","1,818","1,829","1,987",15
+1570238345-43,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Reading,103,114,118,110,10.7
+1570238345-38,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Other vehicle expenses,"2,723","2,756","2,884","2,842",1.2
+1570238345-20,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Dairy products,423,413,410,450,-2.4
+1570238345-50,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Pensions and Social Security,"5,399","6,016","6,509","6,353",11.4
+1570238345-27,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Owned dwellings,"6,149","6,210","6,295","6,947",1
+1570238345-25,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Housing,"17,798","18,409","18,886","19,884",3.4
+1570238345-49,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Life and other personal insurance,327,333,322,418,1.8
+1570238345-29,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Other lodging,710,730,798,782,2.8
+1570238345-42,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Personal care products and services,645,683,707,762,5.9
+1570238345-36,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Vehicle purchases (net outlay),"3,301","3,997","3,634","4,054",21.1
+1570238345-15,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Average annual expenditures,"$53,495 ","$55,978 ","$57,311 ","$60,060 ",4.6
+1570238345-47,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Cash contributions,"1,788","1,819","2,081","1,873",1.7
+1570238345-37,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,"Gasoline, other fuels, and motor oil","2,468","2,090","1,909","1,968",-15.3
+1570238345-12,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Earners,1.3,1.3,1.3,1.3,…
+1570238345-32,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Housekeeping supplies,632,655,660,755,3.6
+1570238345-39,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Public and other transportation,581,661,623,712,13.8
+1570238345-7,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Age of reference person,50.3,50.5,50.9,50.9,…
+1570238345-18,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Cereals and bakery products,519,518,524,564,-0.2
+1570238345-13,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Vehicles,1.9,1.9,1.9,1.9,…
+1570238345-11,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Adults 65 and older,0.4,0.4,0.4,0.4,…
+1570238345-21,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Fruits and vegetables,756,769,783,837,1.7
+1570238345-26,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Shelter,"10,491","10,742","11,128","11,895",2.4
+1570238345-10,https://www.bls.gov/opub/reports/consumer-expenditures/2017/home.htm,Children under 18,0.6,0.6,0.6,0.6,…
